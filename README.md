@@ -6,7 +6,9 @@ Final project for ZTM course
 3. Run `npm start`
 4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+You can grab Clarifai API key [here](https://www.clarifai.com/) <br>
+link do projeto: <br>
+https://musical-snickerdoodle-645b4d.netlify.app/
 
 # face-recognition
 
