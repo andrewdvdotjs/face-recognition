@@ -8,5 +8,8 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-# face-recognition-smart-brain
 # face-recognition
+
+<img src="https://i.imgur.com/r2emAjL.png">
+<hr>
+<img src="https://i.imgur.com/xvsksiI.png">
